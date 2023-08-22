@@ -21,7 +21,7 @@
   </p>
 </p>
 
-![Downloads](https://img.shields.io/github/downloads/itallorian/newrelic-hanami-ageri/total) ![Contributors](https://img.shields.io/github/contributors/itallorian/newrelic-hanami-ageri?color=dark-green) ![Forks](https://img.shields.io/github/forks/itallorian/newrelic-hanami-ageri?style=social) ![Stargazers](https://img.shields.io/github/stars/itallorian/newrelic-hanami-ageri?style=social) ![Issues](https://img.shields.io/github/issues/itallorian/newrelic-hanami-ageri) ![License](https://img.shields.io/github/license/itallorian/newrelic-hanami-ageri) 
+![Contributors](https://img.shields.io/github/contributors/itallorian/newrelic-hanami-ageri?color=dark-green) ![Forks](https://img.shields.io/github/forks/itallorian/newrelic-hanami-ageri?style=social) ![Stargazers](https://img.shields.io/github/stars/itallorian/newrelic-hanami-ageri?style=social) ![Issues](https://img.shields.io/github/issues/itallorian/newrelic-hanami-ageri) ![License](https://img.shields.io/github/license/itallorian/newrelic-hanami-ageri) 
 
 ## Table Of Contents
 
