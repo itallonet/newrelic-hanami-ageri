@@ -35,8 +35,6 @@
 
 ## About The Project
 
-![Screen Shot](https://cdn.icon-icons.com/icons2/2415/PNG/512/ruby_plain_wordmark_logo_icon_146362.png)
-
 This package performs the direct integration of the Hanami (Ruby) framework with the New Relic monitoring and observability platform. Automatic integration of all functions in your code, just with the base configuration of New Relic (AppName and License)
 
 ## Built With
